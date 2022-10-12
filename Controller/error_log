@@ -1,0 +1,8 @@
+[28-Aug-2021 19:16:49 UTC] PHP Notice:  Undefined variable: result in /home/od4xof2k57jq/public_html/Kemba/Controladores/LoginAdminProces.php on line 18
+[28-Aug-2021 19:16:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/od4xof2k57jq/public_html/Kemba/Controladores/LoginAdminProces.php on line 18
+[28-Aug-2021 19:16:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/od4xof2k57jq/public_html/Kemba/Controladores/LoginAdminProces.php on line 19
+[28-Aug-2021 19:16:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/od4xof2k57jq/public_html/Kemba/Controladores/LoginAdminProces.php on line 20
+[01-Sep-2021 13:49:37 UTC] PHP Notice:  Undefined variable: result in /home/od4xof2k57jq/public_html/Kemba/Controladores/LoginAdminProces.php on line 18
+[01-Sep-2021 13:49:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/od4xof2k57jq/public_html/Kemba/Controladores/LoginAdminProces.php on line 18
+[01-Sep-2021 13:49:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/od4xof2k57jq/public_html/Kemba/Controladores/LoginAdminProces.php on line 19
+[01-Sep-2021 13:49:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/od4xof2k57jq/public_html/Kemba/Controladores/LoginAdminProces.php on line 20

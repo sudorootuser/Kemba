@@ -1,0 +1,10 @@
+[14-Dec-2021 23:17:54 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/od4xof2k57jq/public_html/Kemba/Controller/RegisterUser/PHPMailer/PHPMailerAutoload.php on line 45
+[15-Dec-2021 00:18:12 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/od4xof2k57jq/public_html/Kemba/Controller/RegisterUser/PHPMailer/PHPMailerAutoload.php on line 45
+[15-Dec-2021 00:25:06 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/od4xof2k57jq/public_html/Kemba/Controller/RegisterUser/PHPMailer/PHPMailerAutoload.php on line 45
+[15-Dec-2021 01:07:08 UTC] PHP Parse error:  syntax error, unexpected 'CToWUd' (T_STRING) in /home/od4xof2k57jq/public_html/Kemba/Controller/RegisterUser/cuerpo_mensaje.php on line 23
+[15-Dec-2021 01:10:19 UTC] PHP Parse error:  syntax error, unexpected 'CToWUd' (T_STRING) in /home/od4xof2k57jq/public_html/Kemba/Controller/RegisterUser/cuerpo_mensaje.php on line 23
+[15-Dec-2021 01:12:22 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/od4xof2k57jq/public_html/Kemba/Controller/RegisterUser/PHPMailer/PHPMailerAutoload.php on line 45
+[16-Dec-2021 02:37:28 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/od4xof2k57jq/public_html/Kemba/Controller/RegisterUser/PHPMailer/PHPMailerAutoload.php on line 45
+[16-Dec-2021 02:49:25 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/od4xof2k57jq/public_html/Kemba/Controller/RegisterUser/PHPMailer/PHPMailerAutoload.php on line 45
+[16-Dec-2021 23:41:17 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/od4xof2k57jq/public_html/Kemba/Controller/RegisterUser/PHPMailer/PHPMailerAutoload.php on line 45
+[23-Dec-2021 15:27:52 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/od4xof2k57jq/public_html/Kemba/Controller/RegisterUser/PHPMailer/PHPMailerAutoload.php on line 45

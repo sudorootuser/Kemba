@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#MenuNav {
+  margin-top: -5px;
+  padding: 0;
+  background-image: url("../../Resource/Imagenes/imagen-central-web.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center center;
+  height: 680px;
+}
+
+/* Ajuste de la posicion */
+.box_ {
+  display: flex;
+  justify-content: center;
+  padding: 0 9rem 0 9rem;
+  text-align: center;
+}
+.box_ .descarga {
+  font-weight: 600;
+  margin-top: 520px;
+  color: #4841af;
+}
+.box_ .descarga:hover {
+  font-weight: 600;
+  border:0.1px solid #e6268f;
+  background-color: #e6268f;
+  color: white;
+}
+/* Diseño del Menú desplegable */
+.menu{
+  color: white; margin-top: 25px; padding: 8px 0 0 25px;
+}
+.menu .ds{
+  padding: 0 0 0 40%;
+}
+.menu .ds .dsMenu{
+
+  font-weight: 600;
+}
+.menu .ds .dsMenu .btn-mu a:hover{
+  /* border: 1px solid red; */
+  background-color: #e6268f;
+  color: white;
+}
